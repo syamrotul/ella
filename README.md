@@ -7,7 +7,7 @@
 	<hr><center>| LAILATUL MASRIFA|GEOGRAFI  |
 	<hr></p>
 	<h1><u>WELCOME TO MY WEBSITE</u></h1>
-	<h2><font color="red"><u>FIGHTING !!!</h2>
+	<h2><font color="red"><u>FIGHTING !!!</u></font></h2>
 	<hr>
 	<h4>AYO BELAJAR TENTANG MUSIM DI INDONESIA</h4>
 	<img src="musim diindonesia.jpg" width="275px" height="183px" align="left">
@@ -39,5 +39,4 @@
 		
 		
 	<h2><marquee>PENJELASAN DIATAS MERUPAKAN PENJELASAN SINGKAT MENGENAI MUSIM DIINDONESIA, SAMPAI JUMPA LAGI DI INFORMASI SINGKAT SELANJUNYA. BABAYY!!!!</marquee>
-</body>
-</html>
+
